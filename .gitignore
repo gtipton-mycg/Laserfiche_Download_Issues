@@ -3,6 +3,10 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Ignore appsettings.json
+/appsettings.json
+/appsettings.dev.json
+
 # User-specific files
 *.rsuser
 *.suo
@@ -396,3 +400,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/730474(1).jpg
+/730474(2).jpg
+/730474(3).jpg
+/CustomSample.pdf
+/*.bkup
+/DocumentExportSample.pdf
